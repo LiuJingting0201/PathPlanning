@@ -1,0 +1,7 @@
+City,Algorithm,Iterations,Visited Nodes,Path Steps,Distance (km),Time (s),Start Node,End Node,,Iter Improvement (%),Node Improvement (%),Time Improvement (%)
+"Turin, Italy",A*,81,81,63,6.36,0.006,364732551,443718961,,97.87,97.87,70.08
+"Turin, Italy",Dijkstra,3811,3811,58,5.48,0.02,364732551,443718961,,0.0,0.0,0.0
+"Paris, France",A*,145,145,89,8.45,0.006,34817811,3632382087,,96.24,96.24,64.68
+"Paris, France",Dijkstra,3854,3854,79,7.81,0.017,34817811,3632382087,,0.0,0.0,0.0
+"Beijing, China",A*,411,411,320,114.65,0.0753,2604175419,2503838147,,99.53,99.53,85.41
+"Beijing, China",Dijkstra,86863,86863,90,96.77,0.5159,2604175419,2503838147,,0.0,0.0,0.0
